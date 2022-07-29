@@ -3,7 +3,7 @@
 
 This repository contains a simple implementation of mTLS on NGINX. mTLS is the TLS flavour of [mutual authentication](https://en.wikipedia.org/wiki/Mutual_authentication).  
 
-For more details check [this article](https://schartz.github.io/blog).
+For more details check [this article](https://schartz.github.io/blog/tls-and-mtls-deep-dive/).
 
 ## Running
 You will need docker installed to see this in action.  

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DEFAULT_COLOR='\033[0m' 
 BOLD_CYAN='\033[1;35m' 
 BOLD_YELLOW='\033[1;33m'
